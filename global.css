@@ -1,0 +1,18 @@
+:root {
+    --roxo: #d281e9;
+    --rosa-claro: #d281e9;
+    --branco:  #ffffff;
+    --blue: #D8BFD8;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font: 16px Arial, sans-serif;
+    color: #800080;
+    background-color: #f5f4f3;
+  }
